@@ -1,4 +1,11 @@
-# 設備振動監測 Agent 專案
+# FCU&TCCA 生程式課程範例：
+
+課程講義：
+https://gamma.app/docs/AI-ljs46jchlcxk94z
+https://gamma.app/docs/API-GeminiChatGPTClaude--ygas85wuoy6jzd5
+
+
+設備振動監測 Agent 專案
 
 這是一個使用 AI Agent 進行設備振動數據分析的示範專案，整合了 MySQL 資料庫查詢、OpenAI/Ollama LLM，以及智能分析功能。
 
