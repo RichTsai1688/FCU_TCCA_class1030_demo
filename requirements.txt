@@ -1,0 +1,12 @@
+# 環境變數管理
+python-dotenv
+
+# 資料庫連接
+mysql-connector-python
+
+# AI/LLM 相關
+openai
+agents
+
+# 非同步處理
+asyncio
