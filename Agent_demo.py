@@ -1,5 +1,7 @@
 from agents import Agent, Runner, function_tool
 
+import os
+os.environ["OPENAI_API_KEY"]=""
 
 @function_tool  
 async def current_time() -> str:

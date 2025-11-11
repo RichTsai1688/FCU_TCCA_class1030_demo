@@ -26,6 +26,13 @@ https://gamma.app/docs/API-GeminiChatGPTClaude--ygas85wuoy6jzd5
 
 ## 安裝套件
 
+啟動虛擬環境
+
+```bash
+source .venv/bin/activate
+
+```
+
 首先安裝必要的 Python 套件：
 
 ```bash

@@ -6,7 +6,9 @@ mysql-connector-python
 
 # AI/LLM 相關
 openai
-agents
+# agents (tensorflow/agents) removed: conflicts with OpenAI 'agents' usage and requires TF1 contrib.
+# If you intended to use an OpenAI-provided agents package, install the correct package separately
+# (for example: openai-agents) or provide a local `agents` module.
 
 # 非同步處理
 asyncio
